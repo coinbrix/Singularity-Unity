@@ -46,6 +46,8 @@ public class SingularityUnity {
 			Dictionary<string, object> values = JsonConvert.DeserializeObject<Dictionary<string, object>>(userDataJson);
 			return values;
 		#endif
+		var dict = new Dictionary < string, object > ();
+		return dict;
 	}
 
 }
