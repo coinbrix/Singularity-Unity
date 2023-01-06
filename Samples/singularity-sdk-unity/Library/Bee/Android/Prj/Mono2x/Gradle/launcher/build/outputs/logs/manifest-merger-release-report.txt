@@ -1,0 +1,366 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-74:12
+MERGED from [:androidx.activity.activity-1.2.4:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/e5032859ae7ba6f770b5c062d92a010c/androidx.activity.activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/androidx.interpolator.interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.appcompat.appcompat-1.4.2:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/9e788877d1498ebda63702ab1c9845a2/androidx.appcompat.appcompat-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.fragment.fragment-1.3.6:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f868218913368b22b69be884c506cecf/androidx.fragment.fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/7bcdab9edca68925f6bcb92ddd8a20de/androidx.documentfile.documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.3.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/05b708a0ce816cf205921dc729683a44/androidx.lifecycle.lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/d711f81259436f09ffdf0b48105165e3/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.cardview.cardview-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/ffb6a67829fa40d4c0493cb7e147e8f7/androidx.cardview.cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/e55b45934c6f99127a5c14f83b8c12da/androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.1.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/8e40cf53e289be930192e7f3cf991b6d/androidx.drawerlayout.drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.arch.core.core-runtime-2.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/e737982ea91fdf7ea321d344c75db0be/androidx.arch.core.core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.appcompat.appcompat-resources-1.4.2:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/2ee6e992811151c5a3eeb7608536903e/androidx.appcompat.appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.viewpager2.viewpager2-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/65b26ec11e574f5d68d3fe93c8217bcb/androidx.viewpager2.viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.startup.startup-runtime-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/3fcfaa8c4819a9e77bcbc756fd42e7df/androidx.startup.startup-runtime-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:gg.s9y.singularity-sdk-android-1.0.0-beta.3:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/1d8b5738dc7e6604ad7c290133349c6e/gg.s9y.singularity-sdk-android-1.0.0-beta.3/AndroidManifest.xml:2:1-26:12
+MERGED from [:androidx.print.print-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/87e4a5cb4839ebd5d033fa0ae6227780/androidx.print.print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.recyclerview.recyclerview-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/6e57c04e98c372fcd8878b95a3d5645d/androidx.recyclerview.recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.4.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/3836beb0f9f9294fa1a2b6caae30a49b/androidx.lifecycle.lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:com.jakewharton.timber.timber-5.0.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/b5a9db648790d64db57b87734d73333c/com.jakewharton.timber.timber-5.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [:androidx.tracing.tracing-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/5ba63b1c70eabe443fa095f6e25f4126/androidx.tracing.tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.vectordrawable.vectordrawable-animated-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/32488318cfc756fa0f6ae91e625fa530/androidx.vectordrawable.vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/80337eba0fa841c8c1805cc0e4bb6db7/androidx.versionedparcelable.versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/androidx.loader.loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.emoji2.emoji2-views-helper-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/bb7cd3ae901e903733095359c59140a3/androidx.emoji2.emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.emoji2.emoji2-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/9ee462e4709a71b208c7f3d57e7b08ee/androidx.emoji2.emoji2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/androidx.cursoradapter.cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/androidx.lifecycle.lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.transition.transition-1.2.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/0b3eeae4c45c19949f040ae2f0516871/androidx.transition.transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.dynamicanimation.dynamicanimation-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/ad3a80d0049a2072dcab8dde16fee99e/androidx.dynamicanimation.dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.savedstate.savedstate-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f308724af976ef7dca5ec41cddc870c3/androidx.savedstate.savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/e491b027066b482b439af311917e1339/androidx.coordinatorlayout.coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.3.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/fdd76adb4d146adcecf6e119bc7ac017/androidx.lifecycle.lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.core.core-1.7.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f243f87f287fb4f4052bd069a9b71980/androidx.core.core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [:androidx.lifecycle.lifecycle-process-2.4.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/b4d7596fead71e8a5d2387f15c14cd06/androidx.lifecycle.lifecycle-process-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.constraintlayout.constraintlayout-2.1.4:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f6d3f361edbd104bc83a1f3a78474784/androidx.constraintlayout.constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/androidx.viewpager.viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/18f5c1f0dcc08504bb6a1709d838cf6b/androidx.legacy.legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.core.core-ktx-1.7.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/5091ff7989ca8314f9d27716fe9bd511/androidx.core.core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.material.material-1.6.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/a0ebba694f8e6a95bc427eaef4894530/com.google.android.material.material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [:androidx.annotation.annotation-experimental-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/97888b20f6dba24150fc76a5afcbce8d/androidx.annotation.annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.vectordrawable.vectordrawable-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/0878a65179abd6a1b5016c6981bce614/androidx.vectordrawable.vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.customview.customview-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/0ed1423a28db0b992f3020271b2663c7/androidx.customview.customview-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:70-111
+		INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:112-158
+	android:versionCode
+		INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
+		INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:159-199
+supports-screens
+ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:3-83
+MERGED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-72:19
+MERGED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-72:19
+MERGED from [:androidx.startup.startup-runtime-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/3fcfaa8c4819a9e77bcbc756fd42e7df/androidx.startup.startup-runtime-1.0.0/AndroidManifest.xml:19:3-21:17
+MERGED from [:androidx.startup.startup-runtime-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/3fcfaa8c4819a9e77bcbc756fd42e7df/androidx.startup.startup-runtime-1.0.0/AndroidManifest.xml:19:3-21:17
+MERGED from [:gg.s9y.singularity-sdk-android-1.0.0-beta.3:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/1d8b5738dc7e6604ad7c290133349c6e/gg.s9y.singularity-sdk-android-1.0.0-beta.3/AndroidManifest.xml:12:5-24:19
+MERGED from [:gg.s9y.singularity-sdk-android-1.0.0-beta.3:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/1d8b5738dc7e6604ad7c290133349c6e/gg.s9y.singularity-sdk-android-1.0.0-beta.3/AndroidManifest.xml:12:5-24:19
+MERGED from [:com.jakewharton.timber.timber-5.0.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/b5a9db648790d64db57b87734d73333c/com.jakewharton.timber.timber-5.0.1/AndroidManifest.xml:7:5-20
+MERGED from [:com.jakewharton.timber.timber-5.0.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/b5a9db648790d64db57b87734d73333c/com.jakewharton.timber.timber-5.0.1/AndroidManifest.xml:7:5-20
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/80337eba0fa841c8c1805cc0e4bb6db7/androidx.versionedparcelable.versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/80337eba0fa841c8c1805cc0e4bb6db7/androidx.versionedparcelable.versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.emoji2.emoji2-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/9ee462e4709a71b208c7f3d57e7b08ee/androidx.emoji2.emoji2-1.0.0/AndroidManifest.xml:19:3-23:17
+MERGED from [:androidx.emoji2.emoji2-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/9ee462e4709a71b208c7f3d57e7b08ee/androidx.emoji2.emoji2-1.0.0/AndroidManifest.xml:19:3-23:17
+MERGED from [:androidx.core.core-1.7.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f243f87f287fb4f4052bd069a9b71980/androidx.core.core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [:androidx.core.core-1.7.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f243f87f287fb4f4052bd069a9b71980/androidx.core.core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [:androidx.lifecycle.lifecycle-process-2.4.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/b4d7596fead71e8a5d2387f15c14cd06/androidx.lifecycle.lifecycle-process-2.4.0/AndroidManifest.xml:19:3-23:17
+MERGED from [:androidx.lifecycle.lifecycle-process-2.4.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/b4d7596fead71e8a5d2387f15c14cd06/androidx.lifecycle.lifecycle-process-2.4.0/AndroidManifest.xml:19:3-23:17
+MERGED from [:androidx.constraintlayout.constraintlayout-2.1.4:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f6d3f361edbd104bc83a1f3a78474784/androidx.constraintlayout.constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [:androidx.constraintlayout.constraintlayout-2.1.4:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f6d3f361edbd104bc83a1f3a78474784/androidx.constraintlayout.constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [:com.google.android.material.material-1.6.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/a0ebba694f8e6a95bc427eaef4894530/com.google.android.material.material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [:com.google.android.material.material-1.6.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/a0ebba694f8e6a95bc427eaef4894530/com.google.android.material.material-1.6.1/AndroidManifest.xml:24:5-20
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:9-41
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.7.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f243f87f287fb4f4052bd069a9b71980/androidx.core.core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [:gg.s9y.singularity-sdk-android-1.0.0-beta.3:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/1d8b5738dc7e6604ad7c290133349c6e/gg.s9y.singularity-sdk-android-1.0.0-beta.3/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:16-48
+	android:fullBackupContent
+		ADDED from [:gg.s9y.singularity-sdk-android-1.0.0-beta.3:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/1d8b5738dc7e6604ad7c290133349c6e/gg.s9y.singularity-sdk-android-1.0.0-beta.3/AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from [:gg.s9y.singularity-sdk-android-1.0.0-beta.3:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/1d8b5738dc7e6604ad7c290133349c6e/gg.s9y.singularity-sdk-android-1.0.0-beta.3/AndroidManifest.xml:14:9-35
+	tools:targetApi
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:9-35
+	android:icon
+		ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:49-80
+	android:theme
+		ADDED from [:gg.s9y.singularity-sdk-android-1.0.0-beta.3:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/1d8b5738dc7e6604ad7c290133349c6e/gg.s9y.singularity-sdk-android-1.0.0-beta.3/AndroidManifest.xml:18:9-40
+	android:enableOnBackInvokedCallback
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:9-51
+	android:name
+		ADDED from [:gg.s9y.singularity-sdk-android-1.0.0-beta.3:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/1d8b5738dc7e6604ad7c290133349c6e/gg.s9y.singularity-sdk-android-1.0.0-beta.3/AndroidManifest.xml:13:9-73
+uses-sdk
+INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:androidx.activity.activity-1.2.4:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/e5032859ae7ba6f770b5c062d92a010c/androidx.activity.activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.activity.activity-1.2.4:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/e5032859ae7ba6f770b5c062d92a010c/androidx.activity.activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/androidx.interpolator.interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/bcf856ddfeb04b3b73ed182739910d39/androidx.interpolator.interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.appcompat.appcompat-1.4.2:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/9e788877d1498ebda63702ab1c9845a2/androidx.appcompat.appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-1.4.2:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/9e788877d1498ebda63702ab1c9845a2/androidx.appcompat.appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.fragment.fragment-1.3.6:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f868218913368b22b69be884c506cecf/androidx.fragment.fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.fragment.fragment-1.3.6:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f868218913368b22b69be884c506cecf/androidx.fragment.fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/7bcdab9edca68925f6bcb92ddd8a20de/androidx.documentfile.documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/7bcdab9edca68925f6bcb92ddd8a20de/androidx.documentfile.documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.3.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/05b708a0ce816cf205921dc729683a44/androidx.lifecycle.lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.3.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/05b708a0ce816cf205921dc729683a44/androidx.lifecycle.lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/d711f81259436f09ffdf0b48105165e3/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/d711f81259436f09ffdf0b48105165e3/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cardview.cardview-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/ffb6a67829fa40d4c0493cb7e147e8f7/androidx.cardview.cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cardview.cardview-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/ffb6a67829fa40d4c0493cb7e147e8f7/androidx.cardview.cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/e55b45934c6f99127a5c14f83b8c12da/androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/e55b45934c6f99127a5c14f83b8c12da/androidx.lifecycle.lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.drawerlayout.drawerlayout-1.1.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/8e40cf53e289be930192e7f3cf991b6d/androidx.drawerlayout.drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.drawerlayout.drawerlayout-1.1.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/8e40cf53e289be930192e7f3cf991b6d/androidx.drawerlayout.drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.arch.core.core-runtime-2.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/e737982ea91fdf7ea321d344c75db0be/androidx.arch.core.core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.arch.core.core-runtime-2.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/e737982ea91fdf7ea321d344c75db0be/androidx.arch.core.core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-resources-1.4.2:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/2ee6e992811151c5a3eeb7608536903e/androidx.appcompat.appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-resources-1.4.2:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/2ee6e992811151c5a3eeb7608536903e/androidx.appcompat.appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.viewpager2.viewpager2-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/65b26ec11e574f5d68d3fe93c8217bcb/androidx.viewpager2.viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.viewpager2.viewpager2-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/65b26ec11e574f5d68d3fe93c8217bcb/androidx.viewpager2.viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.startup.startup-runtime-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/3fcfaa8c4819a9e77bcbc756fd42e7df/androidx.startup.startup-runtime-1.0.0/AndroidManifest.xml:18:3-72
+MERGED from [:androidx.startup.startup-runtime-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/3fcfaa8c4819a9e77bcbc756fd42e7df/androidx.startup.startup-runtime-1.0.0/AndroidManifest.xml:18:3-72
+MERGED from [:gg.s9y.singularity-sdk-android-1.0.0-beta.3:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/1d8b5738dc7e6604ad7c290133349c6e/gg.s9y.singularity-sdk-android-1.0.0-beta.3/AndroidManifest.xml:6:5-8:41
+MERGED from [:gg.s9y.singularity-sdk-android-1.0.0-beta.3:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/1d8b5738dc7e6604ad7c290133349c6e/gg.s9y.singularity-sdk-android-1.0.0-beta.3/AndroidManifest.xml:6:5-8:41
+MERGED from [:androidx.print.print-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/87e4a5cb4839ebd5d033fa0ae6227780/androidx.print.print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/87e4a5cb4839ebd5d033fa0ae6227780/androidx.print.print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.recyclerview.recyclerview-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/6e57c04e98c372fcd8878b95a3d5645d/androidx.recyclerview.recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.recyclerview.recyclerview-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/6e57c04e98c372fcd8878b95a3d5645d/androidx.recyclerview.recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.4.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/3836beb0f9f9294fa1a2b6caae30a49b/androidx.lifecycle.lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.4.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/3836beb0f9f9294fa1a2b6caae30a49b/androidx.lifecycle.lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:com.jakewharton.timber.timber-5.0.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/b5a9db648790d64db57b87734d73333c/com.jakewharton.timber.timber-5.0.1/AndroidManifest.xml:5:5-44
+MERGED from [:com.jakewharton.timber.timber-5.0.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/b5a9db648790d64db57b87734d73333c/com.jakewharton.timber.timber-5.0.1/AndroidManifest.xml:5:5-44
+MERGED from [:androidx.tracing.tracing-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/5ba63b1c70eabe443fa095f6e25f4126/androidx.tracing.tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.tracing.tracing-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/5ba63b1c70eabe443fa095f6e25f4126/androidx.tracing.tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-animated-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/32488318cfc756fa0f6ae91e625fa530/androidx.vectordrawable.vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-animated-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/32488318cfc756fa0f6ae91e625fa530/androidx.vectordrawable.vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/80337eba0fa841c8c1805cc0e4bb6db7/androidx.versionedparcelable.versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/80337eba0fa841c8c1805cc0e4bb6db7/androidx.versionedparcelable.versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/androidx.loader.loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/2118a7099009bdd29f0289728ee82c0d/androidx.loader.loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.emoji2.emoji2-views-helper-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/bb7cd3ae901e903733095359c59140a3/androidx.emoji2.emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.emoji2.emoji2-views-helper-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/bb7cd3ae901e903733095359c59140a3/androidx.emoji2.emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.emoji2.emoji2-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/9ee462e4709a71b208c7f3d57e7b08ee/androidx.emoji2.emoji2-1.0.0/AndroidManifest.xml:18:3-72
+MERGED from [:androidx.emoji2.emoji2-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/9ee462e4709a71b208c7f3d57e7b08ee/androidx.emoji2.emoji2-1.0.0/AndroidManifest.xml:18:3-72
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/androidx.cursoradapter.cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/7c0677be8011741026309ef690a9f4db/androidx.cursoradapter.cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/androidx.lifecycle.lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/c6f1e76c078a7e4f5288325854cab247/androidx.lifecycle.lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.transition.transition-1.2.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/0b3eeae4c45c19949f040ae2f0516871/androidx.transition.transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.transition.transition-1.2.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/0b3eeae4c45c19949f040ae2f0516871/androidx.transition.transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.dynamicanimation.dynamicanimation-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/ad3a80d0049a2072dcab8dde16fee99e/androidx.dynamicanimation.dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.dynamicanimation.dynamicanimation-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/ad3a80d0049a2072dcab8dde16fee99e/androidx.dynamicanimation.dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.savedstate.savedstate-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f308724af976ef7dca5ec41cddc870c3/androidx.savedstate.savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.savedstate.savedstate-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f308724af976ef7dca5ec41cddc870c3/androidx.savedstate.savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/e491b027066b482b439af311917e1339/androidx.coordinatorlayout.coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/e491b027066b482b439af311917e1339/androidx.coordinatorlayout.coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.3.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/fdd76adb4d146adcecf6e119bc7ac017/androidx.lifecycle.lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.3.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/fdd76adb4d146adcecf6e119bc7ac017/androidx.lifecycle.lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.core.core-1.7.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f243f87f287fb4f4052bd069a9b71980/androidx.core.core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.core.core-1.7.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f243f87f287fb4f4052bd069a9b71980/androidx.core.core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-process-2.4.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/b4d7596fead71e8a5d2387f15c14cd06/androidx.lifecycle.lifecycle-process-2.4.0/AndroidManifest.xml:18:3-72
+MERGED from [:androidx.lifecycle.lifecycle-process-2.4.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/b4d7596fead71e8a5d2387f15c14cd06/androidx.lifecycle.lifecycle-process-2.4.0/AndroidManifest.xml:18:3-72
+MERGED from [:androidx.constraintlayout.constraintlayout-2.1.4:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f6d3f361edbd104bc83a1f3a78474784/androidx.constraintlayout.constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [:androidx.constraintlayout.constraintlayout-2.1.4:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/f6d3f361edbd104bc83a1f3a78474784/androidx.constraintlayout.constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/androidx.viewpager.viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/ebc8011c39d26c440b76466a9b971345/androidx.viewpager.viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/18f5c1f0dcc08504bb6a1709d838cf6b/androidx.legacy.legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/18f5c1f0dcc08504bb6a1709d838cf6b/androidx.legacy.legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-ktx-1.7.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/5091ff7989ca8314f9d27716fe9bd511/androidx.core.core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [:androidx.core.core-ktx-1.7.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/5091ff7989ca8314f9d27716fe9bd511/androidx.core.core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [:com.google.android.material.material-1.6.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/a0ebba694f8e6a95bc427eaef4894530/com.google.android.material.material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:com.google.android.material.material-1.6.1:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/a0ebba694f8e6a95bc427eaef4894530/com.google.android.material.material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.annotation.annotation-experimental-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/97888b20f6dba24150fc76a5afcbce8d/androidx.annotation.annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.annotation.annotation-experimental-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/97888b20f6dba24150fc76a5afcbce8d/androidx.annotation.annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/0878a65179abd6a1b5016c6981bce614/androidx.vectordrawable.vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/0878a65179abd6a1b5016c6981bce614/androidx.vectordrawable.vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.customview.customview-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/0ed1423a28db0b992f3020271b2663c7/androidx.customview.customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.customview.customview-1.1.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/0ed1423a28db0b992f3020271b2663c7/androidx.customview.customview-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:12:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:14:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-67
+MERGED from [:gg.s9y.singularity-sdk-android-1.0.0-beta.3:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/1d8b5738dc7e6604ad7c290133349c6e/gg.s9y.singularity-sdk-android-1.0.0-beta.3/AndroidManifest.xml:10:5-67
+MERGED from [:gg.s9y.singularity-sdk-android-1.0.0-beta.3:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/1d8b5738dc7e6604ad7c290133349c6e/gg.s9y.singularity-sdk-android-1.0.0-beta.3/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:22-76
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:21:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:24:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:34:9-55:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-49
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-48
+	android:exported
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-36
+	android:resizeableActivity
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-194
+	android:theme
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:13-54
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:49:13-51:40
+	android:value
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:51:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:52:13-54:40
+	android:value
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:57:9-59:33
+	android:value
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:9-62:36
+	android:value
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:9-65:36
+	android:value
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:65:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:9-68:37
+	android:value
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:68:13-34
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:69:9-71:50
+	android:value
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:71:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:70:13-40
+provider#androidx.startup.InitializationProvider
+ADDED from [:androidx.startup.startup-runtime-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/3fcfaa8c4819a9e77bcbc756fd42e7df/androidx.startup.startup-runtime-1.0.0/AndroidManifest.xml:20:5-187
+MERGED from [:androidx.emoji2.emoji2-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/9ee462e4709a71b208c7f3d57e7b08ee/androidx.emoji2.emoji2-1.0.0/AndroidManifest.xml:20:5-22:16
+MERGED from [:androidx.emoji2.emoji2-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/9ee462e4709a71b208c7f3d57e7b08ee/androidx.emoji2.emoji2-1.0.0/AndroidManifest.xml:20:5-22:16
+MERGED from [:androidx.lifecycle.lifecycle-process-2.4.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/b4d7596fead71e8a5d2387f15c14cd06/androidx.lifecycle.lifecycle-process-2.4.0/AndroidManifest.xml:20:5-22:16
+MERGED from [:androidx.lifecycle.lifecycle-process-2.4.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/b4d7596fead71e8a5d2387f15c14cd06/androidx.lifecycle.lifecycle-process-2.4.0/AndroidManifest.xml:20:5-22:16
+	tools:node
+		ADDED from [:androidx.startup.startup-runtime-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/3fcfaa8c4819a9e77bcbc756fd42e7df/androidx.startup.startup-runtime-1.0.0/AndroidManifest.xml:20:166-184
+	android:authorities
+		ADDED from [:androidx.startup.startup-runtime-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/3fcfaa8c4819a9e77bcbc756fd42e7df/androidx.startup.startup-runtime-1.0.0/AndroidManifest.xml:20:70-140
+	android:exported
+		ADDED from [:androidx.startup.startup-runtime-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/3fcfaa8c4819a9e77bcbc756fd42e7df/androidx.startup.startup-runtime-1.0.0/AndroidManifest.xml:20:141-165
+	android:name
+		ADDED from [:androidx.startup.startup-runtime-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/3fcfaa8c4819a9e77bcbc756fd42e7df/androidx.startup.startup-runtime-1.0.0/AndroidManifest.xml:20:15-69
+activity#io.neobrix.singularity_sdk_android.SingularityLoginActivity
+ADDED from [:gg.s9y.singularity-sdk-android-1.0.0-beta.3:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/1d8b5738dc7e6604ad7c290133349c6e/gg.s9y.singularity-sdk-android-1.0.0-beta.3/AndroidManifest.xml:20:9-23:20
+	android:exported
+		ADDED from [:gg.s9y.singularity-sdk-android-1.0.0-beta.3:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/1d8b5738dc7e6604ad7c290133349c6e/gg.s9y.singularity-sdk-android-1.0.0-beta.3/AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from [:gg.s9y.singularity-sdk-android-1.0.0-beta.3:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/1d8b5738dc7e6604ad7c290133349c6e/gg.s9y.singularity-sdk-android-1.0.0-beta.3/AndroidManifest.xml:21:13-87
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [:androidx.emoji2.emoji2-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/9ee462e4709a71b208c7f3d57e7b08ee/androidx.emoji2.emoji2-1.0.0/AndroidManifest.xml:21:7-112
+	android:value
+		ADDED from [:androidx.emoji2.emoji2-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/9ee462e4709a71b208c7f3d57e7b08ee/androidx.emoji2.emoji2-1.0.0/AndroidManifest.xml:21:77-109
+	android:name
+		ADDED from [:androidx.emoji2.emoji2-1.0.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/9ee462e4709a71b208c7f3d57e7b08ee/androidx.emoji2.emoji2-1.0.0/AndroidManifest.xml:21:18-76
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [:androidx.lifecycle.lifecycle-process-2.4.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/b4d7596fead71e8a5d2387f15c14cd06/androidx.lifecycle.lifecycle-process-2.4.0/AndroidManifest.xml:21:7-115
+	android:value
+		ADDED from [:androidx.lifecycle.lifecycle-process-2.4.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/b4d7596fead71e8a5d2387f15c14cd06/androidx.lifecycle.lifecycle-process-2.4.0/AndroidManifest.xml:21:80-112
+	android:name
+		ADDED from [:androidx.lifecycle.lifecycle-process-2.4.0:] /Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/b4d7596fead71e8a5d2387f15c14cd06/androidx.lifecycle.lifecycle-process-2.4.0/AndroidManifest.xml:21:18-79
