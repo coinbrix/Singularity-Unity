@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Plugins/Android/org.jetbrains.kotlin.kotlin-stdlib-1.7.10.jar.meta
+guid: b3a8f1d1eaf2a4c099388c7916431622
+labels:
+- gpsr
+========
+guid: 5df2e081af55048d9aed921fdfbf686a
+>>>>>>>> unity_plugin_as_instantiable:Assets/Plugins/Android/SingularityUnityPlugin.java.meta
+PluginImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder: {}
+  defineConstraints: []
+  isPreloaded: 0
+  isOverridable: 0
+  isExplicitlyReferenced: 0
+  validateReferences: 1
+  platformData:
+  - first:
+      Android: Android
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      Any: 
+    second:
+      enabled: 0
+      settings: {}
+  - first:
+      Editor: Editor
+    second:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

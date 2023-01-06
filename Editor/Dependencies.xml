@@ -1,0 +1,26 @@
+<dependencies>
+<!--    <androidPackages>-->
+<!--        <androidPackage spec="androidx.appcompat:appcompat:1.4.2"/>-->
+<!--    </androidPackages>-->
+<!--    <androidPackages>-->
+<!--        <androidPackage spec="androidx.constraintlayout:constraintlayout:2.1.4"/>-->
+<!--    </androidPackages>-->
+<!--    <androidPackages>-->
+<!--        <androidPackage spec="com.google.android.material:material:1.6.1"/>-->
+<!--    </androidPackages>-->
+<!--    <androidPackages>-->
+<!--        <androidPackage spec="androidx.core:core-ktx:1.7.0"/>-->
+<!--    </androidPackages>-->
+<!--    <androidPackages>-->
+<!--        <androidPackage spec="com.google.code.gson:gson:2.8.9"/>-->
+<!--    </androidPackages>-->
+    <androidPackages>
+        <androidPackage spec="gg.s9y:singularity-sdk-android:1.0.0-beta.3"/>
+    </androidPackages>
+    <androidPackages>
+        <androidPackage spec="gg.s9y:singularity-sdk-android:1.0.0-beta.2"/>
+    </androidPackages>
+    <iosPods>
+        <iosPod name="Singularity-iOS" bitcodeEnabled="true" addToAllTargets="true" />
+      </iosPods>
+</dependencies>

@@ -1,0 +1,24 @@
+{
+  "name": "com.neobrix.SingularityUnity",
+  "version": "1.0.0",
+  "displayName": "Singularity Unity",
+  "description": "This is an unity package to integrate singularity",
+  "unity": "2021.3",
+  "unityRelease": "15f1",
+  "license": "MIT",
+"licenseFilename": "LICENSE",
+"readmeFilename": "README.md",
+ "keywords": [
+    "singularity",
+    "neobrix",
+    "crypto",
+    "unity",
+    "ios",
+    "android"
+  ],
+  "author": {
+    "name": "Neobrix",
+    "email": "devsupport@s9y.gg",
+    "url": "https://www.s9y.gg/"
+  }
+}
