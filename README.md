@@ -3,7 +3,7 @@ You  can integrate singularity sdk to easy implement login flow and wallet integ
 
 {
     "dependencies": {
-        "com.neobrix.singularity-unity": "https://github.com/coinbrix/Singularity-Unity#upm"
+        "com.coinbrix.singularityunity": "https://github.com/coinbrix/Singularity-Unity.git"
     }
 }
 
