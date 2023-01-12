@@ -19,7 +19,8 @@
   "LICENSE.meta",
   "!Samples",
   "README.md.meta",
-  "README.md"
+  "README.md",
+  "package.json.meta"
 ],
  "keywords": [
     "singularity",
