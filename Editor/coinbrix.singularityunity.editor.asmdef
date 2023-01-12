@@ -1,5 +1,5 @@
 {
-    "name": "com.coinbrix.singularityunity.editor",
+    "name": "coinbrix.singularityunity.editor",
     "rootNamespace": "",
     "references": [
         "GUID:2bafac87e7f4b9b418d9448d219b01ab"
