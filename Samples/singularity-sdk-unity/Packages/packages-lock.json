@@ -1,11 +1,10 @@
 {
   "dependencies": {
     "com.coinbrix.singularityunity": {
-      "version": "https://github.com/coinbrix/Singularity-Unity.git",
+      "version": "file:/Users/shubham.garg/Documents/GitHub/Singularity-Unity",
       "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "34871fa3a5f5f6427c106d4e0d18ee6c5f23386e"
+      "source": "local",
+      "dependencies": {}
     },
     "com.unity.2d.animation": {
       "version": "7.0.9",

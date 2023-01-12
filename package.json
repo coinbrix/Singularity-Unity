@@ -8,6 +8,19 @@
   "license": "MIT",
 "licenseFilename": "LICENSE",
 "readmeFilename": "README.md",
+"files": [
+  "Editor",
+  "ExternalDependencyManager",
+  "ExternalDependencyManager.meta",
+  "Editor.meta",
+  "CHANGELOG.md",
+  "CHANGELOG.md.meta",
+  "LICENSE",
+  "LICENSE.meta",
+  "!Samples",
+  "README.md.meta",
+  "README.md"
+],
  "keywords": [
     "singularity",
     "neobrix",
