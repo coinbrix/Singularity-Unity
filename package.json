@@ -20,6 +20,7 @@
   "!Samples",
   "README.md.meta",
   "README.md",
+  "!Samples.meta",
   "package.json.meta"
 ],
  "keywords": [
