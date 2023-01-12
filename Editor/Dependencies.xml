@@ -15,7 +15,7 @@
 <!--        <androidPackage spec="com.google.code.gson:gson:2.8.9"/>-->
 <!--    </androidPackages>-->
     <androidPackages>
-        <androidPackage spec="gg.s9y:singularity-sdk-android:1.0.0-beta.3"/>
+        <androidPackage spec="gg.s9y:singularity-sdk-android:1.0.1-beta.0"/>
     </androidPackages>
     <iosPods>
         <iosPod name="Singularity-iOS" bitcodeEnabled="true" addToAllTargets="true" min="13.0" />

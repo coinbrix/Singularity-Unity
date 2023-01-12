@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using EasyUI.Toast;
+using EasyUI.Toast ;
 
 public class ButtonClickHandler: MonoBehaviour, ISingularityUnitySdkProtocol
 {
@@ -11,15 +11,32 @@ public class ButtonClickHandler: MonoBehaviour, ISingularityUnitySdkProtocol
         UnityThread.initUnityThread();
     }
 	
-    public void OnButtonClick()
+    public void OnQalClicked()
     {
-        Debug.Log("Button Clicked");
+        Debug.Log("QAL Clicked");
+        openLoginScreen("2");
+    }
+    
+    public void OnSandboxClick()
+    {
+        Debug.Log("Sandbox Clicked");
+        openLoginScreen("0");
+    }
+    
+    public void OnProdClick()
+    {
+        Debug.Log("Prod Clicked");
+        openLoginScreen("1");
+    }
+
+    public void openLoginScreen(string environment)
+    {
         Dictionary<string, object> parameters = new Dictionary<string,object>();
 
         parameters.Add("key", "neobrix");
         
         Dictionary<string, string> parametersInternal = new Dictionary<string,string>();
-        parametersInternal.Add("environment", "1");
+        parametersInternal.Add("environment", environment);
 
         parameters.Add("singularityConfig", parametersInternal);
 
