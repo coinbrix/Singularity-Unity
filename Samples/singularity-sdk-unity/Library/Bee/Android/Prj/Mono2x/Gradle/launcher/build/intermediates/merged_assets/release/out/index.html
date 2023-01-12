@@ -1,0 +1,41 @@
+<html>
+<head>
+    <script>
+
+    (function (w, d, s, o, f, js, fjs) {
+        w[o] =
+          w[o] ||
+          function () {
+            (w[o].q = w[o].q || []).push(arguments);
+          };
+        (js = d.createElement(s)), (fjs = d.getElementsByTagName(s)[0]);
+        js.id = o;
+        js.src = f;
+        js.async = 1;
+        fjs.parentNode.insertBefore(js, fjs);
+
+      })(window, document, "script", "Singularity", "https://unpkg.com/singularity-client-script@latest/index.js");
+
+      window.addEventListener('DOMContentLoaded', function() {
+        console.log('Inside addEventListener load', window);
+        console.log(typeof(window.Singularity.init));
+<!--        const url_string = location.href;-->
+<!--        const url = new URL(url_string);-->
+<!--        const apiKey = url.searchParams.get("api_key");-->
+        window.SingularityEvent.close();
+        window.Singularity.init('6');
+      })
+
+       window.onload = function(e) {
+               console.log("window loaded");
+               window.SingularityEvent.close();
+       };
+
+</script>
+
+
+</head>
+<body>
+
+</body>
+</html>

@@ -1,1 +1,1 @@
-/Users/shubham.garg/Documents/GitHub/singularity-sdk-unity
+/Users/shubham.garg/Documents/GitHub/Singularity-Unity/Samples/singularity-sdk-unity

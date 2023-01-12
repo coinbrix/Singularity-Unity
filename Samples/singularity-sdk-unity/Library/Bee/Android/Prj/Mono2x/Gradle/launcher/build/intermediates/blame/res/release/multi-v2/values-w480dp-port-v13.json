@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shubham.garg/Documents/GitHub/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w480dp-port-v13/values-w480dp-port-v13.xml",
+            "outputFile": "/Users/shubham.garg/Documents/GitHub/Singularity-Unity/Samples/singularity-sdk-unity/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w480dp-port-v13/values-w480dp-port-v13.xml",
             "map": [
                 {
                     "source": "/Users/shubham.garg/.gradle/caches/transforms-2/files-2.1/a0ebba694f8e6a95bc427eaef4894530/com.google.android.material.material-1.6.1/res/values-w480dp-port-v13/values-w480dp-port-v13.xml",

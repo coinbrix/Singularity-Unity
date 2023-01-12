@@ -35,6 +35,10 @@
         android:name="android.hardware.touchscreen.multitouch.distinct"
         android:required="false" />
 
+    <queries>
+        <package android:name="com.android.chrome" />
+    </queries>
+
     <application
         android:name="io.neobrix.singularity_sdk_android.SingularityApp"
         android:allowBackup="true"
@@ -99,7 +103,18 @@
 
         <activity
             android:name="io.neobrix.singularity_sdk_android.SingularityLoginActivity"
-            android:exported="true" >
+            android:exported="true"
+            android:launchMode="singleTop" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="com.Neobrix.singularitysdkunity"
+                    android:scheme="neobrix" />
+            </intent-filter>
         </activity>
     </application>
 

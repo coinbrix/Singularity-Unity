@@ -1,0 +1,39 @@
+{
+  "name": "com.coinbrix.singularityunity",
+  "version": "1.0.0",
+  "displayName": "Singularity Unity",
+  "description": "This is an unity package to integrate singularity",
+  "unity": "2021.3",
+  "unityRelease": "15f1",
+  "license": "MIT",
+"licenseFilename": "LICENSE",
+"readmeFilename": "README.md",
+"files": [
+  "Editor",
+  "ExternalDependencyManager",
+  "ExternalDependencyManager.meta",
+  "Editor.meta",
+  "CHANGELOG.md",
+  "CHANGELOG.md.meta",
+  "LICENSE",
+  "LICENSE.meta",
+  "!Samples",
+  "README.md.meta",
+  "README.md",
+  "!Samples.meta",
+  "package.json.meta"
+],
+ "keywords": [
+    "singularity",
+    "neobrix",
+    "crypto",
+    "unity",
+    "ios",
+    "android"
+  ],
+  "author": {
+    "name": "Neobrix",
+    "email": "devsupport@s9y.gg",
+    "url": "https://www.s9y.gg/"
+  }
+}

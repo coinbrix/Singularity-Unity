@@ -27,10 +27,7 @@
         android:name="android.hardware.touchscreen.multitouch.distinct"
         android:required="false" />
 
-    <application
-        android:enableOnBackInvokedCallback="true"
-        android:extractNativeLibs="true"
-        tools:targetApi="tiramisu" >
+    <application android:extractNativeLibs="true" >
         <activity
             android:name="com.unity3d.player.UnityPlayerActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
